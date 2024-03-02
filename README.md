@@ -55,3 +55,11 @@ Implements TTS functionality for various sections and elements of the website, e
 Adds event listeners to section links in the navbar, triggering spoken descriptions of each section (Home, About, Interests, Skills, Portfolio, Contact) when clicked. <br>
 * Interests Summary: <br>
 Enables users to listen to spoken summaries about various interests (Web Development, Android Development, Programming Languages, Teaching) by clicking corresponding buttons. <br>
+
+# How you can make your own Website from using this !!!
+As I have already created my website now I will pin-point all the fields/points which you should change in order to create your own website using my website. So Iam mentioning those areas which you should change file-wise.
+
+# A>Changes in Files: 
+
+# HomePicture.jpg:
+Make sure that you have your own picture which you want to be used as your homepage display picture. To do this simply remove the existing HomePicture.jpg i.e my picture and add your own picture and name it HomePicture and make sure that your image is in .jpg format and it should be in  the same folder in which you have you have your codes and other files.
