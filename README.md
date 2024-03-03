@@ -23,6 +23,10 @@
 * Typed.js: Used for the animated typing effect, sourced from typed.js. <br>
 * Unpkg CDN: Used for importing Boxicons and Typed.js libraries. <br>
 
+## Icons used:
+I have used these icons in my website and they are from [Boxicons.com](https://boxicons.com/) :
+* 
+
 ## Styling of the Website:
 Here's a brief overview of what each section does:
 * Reset Styles and Body: Resets default styles and sets background and font for the body. <br>
@@ -84,5 +88,15 @@ Make sure you make some following changes in the html file of this Portfolio Web
 * Lines 282-337: This section contains my Specializations so make sure that you just replace my Specializations with yours.
 * Line no 360: Make sure you change the email id.
 * Line no 361: Make sure you change the phone number.
-* Line no 375: In the Contact form (<form action="https://formspree.io/f/xzblqrgk" method="POST">) replace the " https://formspree.io/f/xzblqrgk " with you formspree api otherwise yoiur message requests will be coming on my account not yours. I will explain how to use formspree Dont Worry !!!
+* Line no 375: In the Contact form (<form action="https://formspree.io/f/xzblqrgk" method="POST">) replace the " https://formspree.io/f/xzblqrgk " with you formspree api otherwise your message requests will be coming on my account not yours. I will explain how to use formspree Dont Worry !!!
 * Line no 389: Change the name from Zidaan to your name.
+
+## script.js:
+Make sure you make following changes in the JavaScript of the website:
+* Line no 6: It includes what you want to be displayed in the form of typing animation effect so change it according to you.
+* Lines 20 and 37: Both of these lines include the link to my Github profile so just remove my profiles link in the OpenSocialMediaLink() function and replace it with yours.
+* Lines 24 and 41: Both of these lines include the link to my Replit profile so just remove my profiles link in the OpenSocialMediaLink() function and replace it with yours.
+* Lines 28 and 45: Both of these lines include the link to my Instagram profile so just remove my profiles link in the OpenSocialMediaLink() function and replace it with yours.
+* Lines 32 and 49: Both of these lines include the link to my Linkedin profile so just remove my profiles link in the OpenSocialMediaLink() function and replace it with yours.
+* Line no 70: Change the Syed_Zidaan_Ahmad_Resume.pdf with the name of your own Resume.
+* Lines 93-149: This section contains the function which will enable the speech actions on the button clicks so I have written all the things which I want the website to speak. All you have to do is to just write what you want the system to speak in the speak() function.
