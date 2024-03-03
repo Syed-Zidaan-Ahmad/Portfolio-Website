@@ -81,4 +81,8 @@ Make sure you make some following changes in the html file of this Portfolio Web
 * Lines 124-162: As this is my Interests Section so I have mentioned my Interests, so you just change it according to yourself.
 * Lines 174-229: This section contains my Technical Skills so make sure you just replace my Technical Skills with yours.
 * Lines 234-272: This section contains my Professional Skills so make sure you just replace my Professional Skills with yours.
-* Lines 282-337: This section contains my Special
+* Lines 282-337: This section contains my Specializations so make sure that you just replace my Specializations with yours.
+* Line no 360: Make sure you change the email id.
+* Line no 361: Make sure you change the phone number.
+* Line no 375: In the Contact form (<form action="https://formspree.io/f/xzblqrgk" method="POST">) replace the " https://formspree.io/f/xzblqrgk " with you formspree api otherwise yoiur message requests will be coming on my account not yours. I will explain how to use formspree Dont Worry !!!
+* Line no 389: Change the name from Zidaan to your name.
