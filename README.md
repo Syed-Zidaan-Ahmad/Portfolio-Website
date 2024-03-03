@@ -61,5 +61,13 @@ As I have already created my website now I will pin-point all the fields/points 
 
 # A>Changes in Files: 
 
-# HomePicture.jpg:
+## HomePicture.jpg:
 Make sure that you have your own picture which you want to be used as your homepage display picture. To do this simply remove the existing HomePicture.jpg i.e my picture and add your own picture and name it HomePicture and make sure that your image is in .jpg format and it should be in  the same folder in which you have you have your codes and other files.
+
+## AboutPicture.jpg:
+Make sure that you have your own picture which you want to be used as your about section display picture. To do this simply remove the existing AboutPicture.jpg i.e my picture and add your own picture and name it AboutPicture and make sure that your image is in .jpg format and it should be in  the same folder in which you have you have your codes and other files.
+
+## Syed_Zidaan_Ahmad_Resume.pdf:
+Make sure that you replace my resume name with your name i.e my name is Syed zidaan Ahmad so the name of my resume is Syed_Zidaan_Ahmad_Resume so you just remove my resume from the code's folder and replace it with yours and also make the changes in the JavaScript file. 
+
+
