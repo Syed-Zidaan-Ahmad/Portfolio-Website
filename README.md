@@ -116,6 +116,8 @@ Now I will explain you how you can accept queries from users on your portfolio w
 
   # How to insert your social media profile links in your website ?
   As I have already mentioned which lines you are required to change to link your social media profiles like Github, Replit, Instagram and Linkedin in the script.js code. Now I will tell you how you will get your profile links.
-  * Github:
-    For getting your 
+ * Github:
+   For getting your Github link just simply login to your Github account on your PC then click th icon/avatar and on that click on "Your Profile" and then copy the link from the url box.
+* Replit:
+
   
