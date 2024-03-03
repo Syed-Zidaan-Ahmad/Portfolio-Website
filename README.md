@@ -100,3 +100,16 @@ Make sure you make following changes in the JavaScript of the website:
 * Lines 32 and 49: Both of these lines include the link to my Linkedin profile so just remove my profiles link in the OpenSocialMediaLink() function and replace it with yours.
 * Line no 70: Change the Syed_Zidaan_Ahmad_Resume.pdf with the name of your own Resume.
 * Lines 93-149: This section contains the function which will enable the speech actions on the button clicks so I have written all the things which I want the website to speak. All you have to do is to just write what you want the system to speak in the speak() function.
+
+# How to use Formspree to accept user queries on your email without using backend ?
+Now I will explain you how you can accept queries from users on your portfolio website without using a backend. It is done by usig formspree a free tool which can mae our work very easy. So follow these steps to have your own formspree functionality:
+* Go to the website https://formspree.io/
+* Then click on "Get Started"  and sign up using your email.
+* Verify your email then log in.
+* Click on + icon in the My First Project.
+* Click on "Create a form".
+* Name your form  and set the email on which you want to receive the queries of the users.
+* Click on "Create Form".
+* Copy the link given in the title " Your form's endpoint is" heading.
+* Paste your link in the (<form action=" " method="POST">) (index.html line no 375)
+* Now you have successfully completed the steps. Now you will receive the queries from the user on your email.
