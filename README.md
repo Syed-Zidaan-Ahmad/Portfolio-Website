@@ -70,4 +70,15 @@ Make sure that you have your own picture which you want to be used as your about
 ## Syed_Zidaan_Ahmad_Resume.pdf:
 Make sure that you replace my resume name with your name i.e my name is Syed zidaan Ahmad so the name of my resume is Syed_Zidaan_Ahmad_Resume so you just remove my resume from the code's folder and replace it with yours and also make the changes in the JavaScript file. 
 
+# B>Changes in Codes: 
 
+## index.html:
+Make sure you make some following changes in the html file of this Portfolio Website. So here are the points whih you will need to change
+* Line no 36: Change the name from Zidaan Ahmad to your name.
+* Lines 92-95: Make sure to change my Skills and write yours in place of them .
+* Lines 101-103: Make sure you change my Expeirence and write yours in place of them.
+* Lines 109-111: Make sure you change my Educational Qualifications and write yours in place of them.
+* Lines 124-162: As this is my Interests Section so I have mentioned my Interests, so you just change it according to yourself.
+* Lines 174-229: This section contains my Technical Skills so make sure you just replace my Technical Skills with yours.
+* Lines 234-272: This section contains my Professional Skills so make sure you just replace my Professional Skills with yours.
+* Lines 282-337: This section contains my Special
