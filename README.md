@@ -113,3 +113,7 @@ Now I will explain you how you can accept queries from users on your portfolio w
 * Copy the link given in the title " Your form's endpoint is" heading.
 * Paste your link in the (<form action=" " method="POST">) (index.html line no 375)
 * Now you have successfully completed the steps. Now you will receive the queries from the user on your email.
+
+  # How to insert your social media profile links in your website ?
+  As I have already mentioned which lines you are required to change to link your social media profiles like Github, Replit, Instagram and Linkedin in the script.js code. Now I will tell you how you will get your profile links.
+  
