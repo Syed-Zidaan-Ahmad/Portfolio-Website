@@ -25,7 +25,11 @@
 
 ## Icons used:
 I have used these icons in my website and they are from [Boxicons.com](https://boxicons.com/) :
-* 
+* Line no 28: Menu Icon ( <i class="bx bx-menu"></i> )
+* Line no 43: Replit Icon ( <i class='bx bx-git-repo-forked' ></i> )
+* Line no 44: Instagram Icon ( <i class='bx bxl-instagram'></i> )
+* Line no 45: Linkedin Icon ( <i class='bx bxl-linkedin-square'></i> )
+* Line no 46: Github Icon ( <i class='bx bxl-github'></i> )
 
 ## Styling of the Website:
 Here's a brief overview of what each section does:
