@@ -30,6 +30,10 @@ I have used these icons in my website and they are from [Boxicons.com](https://b
 * Line no 44: Instagram Icon ( <i class='bx bxl-instagram'></i> )
 * Line no 45: Linkedin Icon ( <i class='bx bxl-linkedin-square'></i> )
 * Line no 46: Github Icon ( <i class='bx bxl-github'></i> )
+* Line no 127: Internet/Web Development Icon ( <i class='bx bxs-planet'></i> )
+* Line no 136: Android Development Icon (  <i class='bx bx-devices'></i> )
+* Line no 146: Programming Languages Icon ( <i class='bx bx-code-block'></i> )
+* Line no 155: Teaching Icon ( <i class='bx bx-book-reader'></i> )
 * Line no 176: HTML Icon ( <i class='bx bxl-html5'></i> )
 * Line no 185: CSS Icon ( <i class='bx bxl-css3'></i> )
 * Line no 194: JavaScript Icon ( <i class='bx bxl-javascript'></i> )
@@ -39,6 +43,10 @@ I have used these icons in my website and they are from [Boxicons.com](https://b
 * Line no 361: Email Icon ( <i class='bx bx-send'></i> )
 * Line no 362: Phone Icon ( <i class='bx bx-phone-call'></i> )
 * Line no 393: Arrow Icon ( <i class='bx bxs-up-arrow'></i> )
+
+## Images sources used:
+I have used some images in my websie in some sections so if you want to change the images make these changes:
+
 
 ## Styling of the Website:
 Here's a brief overview of what each section does:
