@@ -120,5 +120,9 @@ Now I will explain you how you can accept queries from users on your portfolio w
    For getting your Github link just simply login to your Github account on your PC then click th icon/avatar and on that click on "Your Profile" and then copy the link from the url box.
 * Replit: <br>
   For getting your Replit link just simply login to your Replit account on your PC then click th icon/avatar and on that click on "Your Profile" and then copy the link from the url box.
+* Instagram: <br>
+  For getting your Instagram link just simply login to your Instagram accoiunt on a web browser and click on "Profile" then simply copy the link in the url box.
+* Linkedin: <br>
+  For getting your Linkedin profile just simply login to your Linkedin account on a web browser and then click on "Me" then click on "View Profile" and then copy the link from the url box.
 
   
