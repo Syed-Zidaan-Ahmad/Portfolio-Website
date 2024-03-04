@@ -152,4 +152,10 @@ Now I will explain you how you can accept queries from users on your portfolio w
 * Linkedin: <br>
   For getting your Linkedin profile just simply login to your Linkedin account on a web browser and then click on "Me" then click on "View Profile" and then copy the link from the url box.
 
-  
+# My Words:
+Iam Syed Zidaan Ahmad and I have created this portfolio website using my skills in HTML, CSS and JavaScript. I have tried my best to make it attractive and creative as far as possible but if you have any suggestions feel free to suggest me. I have explained everything above so if you just want a website you may just make some changes and make the complete website yours. Also I have explained my code line by line so if you want to copy you should definitely copy but also read that which part of code will do what. I hope you like my efforts and hardwork.
+
+Warm Regards
+Syed Zidaan Ahmad
+
+# Thank You for your time !!!
