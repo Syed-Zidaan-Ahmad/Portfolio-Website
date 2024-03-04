@@ -43,11 +43,7 @@ I have used these icons in my website and they are from [Boxicons.com](https://b
 * Line no 361: Email Icon ( <i class='bx bx-send'></i> )
 * Line no 362: Phone Icon ( <i class='bx bx-phone-call'></i> )
 * Line no 393: Arrow Icon ( <i class='bx bxs-up-arrow'></i> )
-
-## Images sources used:
-I have used some images in my websie in some sections so if you want to change the images make these changes:
-
-
+  
 ## Styling of the Website:
 Here's a brief overview of what each section does:
 * Reset Styles and Body: Resets default styles and sets background and font for the body. <br>
