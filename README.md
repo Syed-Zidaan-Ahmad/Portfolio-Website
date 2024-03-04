@@ -30,6 +30,13 @@ I have used these icons in my website and they are from [Boxicons.com](https://b
 * Line no 44: Instagram Icon ( <i class='bx bxl-instagram'></i> )
 * Line no 45: Linkedin Icon ( <i class='bx bxl-linkedin-square'></i> )
 * Line no 46: Github Icon ( <i class='bx bxl-github'></i> )
+* Line no 176: HTML Icon ( <i class='bx bxl-html5'></i> )
+* Line no 185: CSS Icon ( <i class='bx bxl-css3'></i> )
+* Line no 194: JavaScript Icon ( <i class='bx bxl-javascript'></i> )
+* Line no 203: React Icon ( <i class='bx bxl-react'></i> )
+* Line no 212: Python Icon ( <i class='bx bxl-python'></i> )
+* Line no 221: Java Icon ( <i class='bx bxl-java'></i> )
+* Line no 
 
 ## Styling of the Website:
 Here's a brief overview of what each section does:
