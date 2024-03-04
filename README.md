@@ -43,7 +43,17 @@ I have used these icons in my website and they are from [Boxicons.com](https://b
 * Line no 361: Email Icon ( <i class='bx bx-send'></i> )
 * Line no 362: Phone Icon ( <i class='bx bx-phone-call'></i> )
 * Line no 393: Arrow Icon ( <i class='bx bxs-up-arrow'></i> )
-  
+
+## Images used and that can be changed in the website:
+I have also mentioned the images which I have used in the website so you can change them according to your choice Nearly every line is present in the index.html code except for the last one:
+* Line no 53: HomePicture.jpg includes the home picture so first you should remove my image which is present in the code folder with your own image and note that it should be named as HomePicture and should be in .jpg format
+* Line no 69: AboutPicture.jpg includes the about section picture so first you should remove my image which is present in the code folder with your own image and note that it should be named as AboutPicture and should be in .jpg format
+* Line no 285: It consists of the image link of the Web Development Specialization so replace the image with image link which you want in the src tag.
+* Line no 298: It consists of the image link of the Android Development Specialization so replace the image with image link which you want in the src tag.
+* Line no 312: It consists of the image link of the Programming Languages Specialization so replace the image with image link which you want in the src tag.
+* Line no 325: It consists of the image link of the Teaching Specialization so replace the image with image link which you want in the src tag.
+* Line no 76 (style.css): This contains the image link of the background image so you can change it if you wish to do so.
+
 ## Styling of the Website:
 Here's a brief overview of what each section does:
 * Reset Styles and Body: Resets default styles and sets background and font for the body. <br>
