@@ -36,7 +36,9 @@ I have used these icons in my website and they are from [Boxicons.com](https://b
 * Line no 203: React Icon ( <i class='bx bxl-react'></i> )
 * Line no 212: Python Icon ( <i class='bx bxl-python'></i> )
 * Line no 221: Java Icon ( <i class='bx bxl-java'></i> )
-* Line no 
+* Line no 361: Email Icon ( <i class='bx bx-send'></i> )
+* Line no 362: Phone Icon ( <i class='bx bx-phone-call'></i> )
+* Line no 393: Arrow Icon ( <i class='bx bxs-up-arrow'></i> )
 
 ## Styling of the Website:
 Here's a brief overview of what each section does:
