@@ -383,13 +383,13 @@ body {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(568px, 1fr));
   grid-gap: 40px;
-  margin-top: 50px;
+  margin-top: 20px;
 }
 /* Styling the container which will store the respective skills*/
 .container1 {
   width: 600px;
   height: 500px;
-  padding: 75px 90px;
+  padding: 40px 90px;
   margin-left: 120px;
   margin-bottom: 5px;
 }
@@ -399,7 +399,7 @@ body {
   text-decoration: underline;
   text-underline-offset: 10px;
   text-decoration-thickness: 5px;
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 /* Styling for individual skill bars */
 .bar {
