@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function () {
     });
     // Instagram Profile (Home Section)
     document.querySelector('.home-sci .bx.bxl-instagram').parentElement.addEventListener('click', function () {
-        openSocialMediaLink('https://www.instagram.com/the_rayonix/?hl=en'); // Your Instagram profile link
+        openSocialMediaLink('https://replit.com/@ahmadzidaan786'); // Your Instagram profile link
     });
     // LinkedIn Profile (Home Section)
     document.querySelector('.home-sci .bx.bxl-linkedin-square').parentElement.addEventListener('click', function () {
@@ -42,7 +42,7 @@ document.addEventListener('DOMContentLoaded', function () {
     });
     // Instagram Profile (Contact Section)
     document.querySelector('.contact-icons .bx.bxl-instagram-alt').parentElement.addEventListener('click', function () {
-        openSocialMediaLink('https://www.instagram.com/the_rayonix/?hl=en'); // Your Instagram profile link
+        openSocialMediaLink('https://replit.com/@ahmadzidaan786'); // Your Instagram profile link
     });
     // LinkedIn Profile (Contact Section)
     document.querySelector('.contact-icons .bx.bxl-linkedin-square').parentElement.addEventListener('click', function () {
